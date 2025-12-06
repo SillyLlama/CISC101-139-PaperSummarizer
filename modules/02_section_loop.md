@@ -1,11 +1,11 @@
 # Module 2: Section loop
 
 # Change Log (2025-12-05)
-# - Added `summary_level` variable (“short” | “detailed”).
-# - Added conditional behaviors:
-#     • Short mode → 1–2 sentence summary only.
-#     • Detailed mode → short paragraph + 3–5 bullet points.
-# - Integrated summary-level logic into pseudocode and summarization responsibilities.
+ - Added summary_level variable (“short” | “detailed”).
+ - Added conditional behaviors:
+     • Short mode → 1–2 sentence summary only.
+     • Detailed mode → short paragraph + 3–5 bullet points.
+ - Integrated summary-level logic into pseudocode and summarization responsibilities.
 
 ## Responsibilities
 - **Summarization:** Produce concise summaries for each section in original order.
