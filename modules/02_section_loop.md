@@ -3,8 +3,8 @@
 # Change Log (2025-12-05)
  - Added summary_level variable (“short” | “detailed”).
  - Added conditional behaviors:
-     • Short mode → 1–2 sentence summary only.
-     • Detailed mode → short paragraph + 3–5 bullet points.
+ - Short mode → 1–2 sentence summary only.
+ - Detailed mode → short paragraph + 3–5 bullet points.
  - Integrated summary-level logic into pseudocode and summarization responsibilities.
 
 ## Responsibilities
